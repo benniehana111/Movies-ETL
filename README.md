@@ -10,4 +10,4 @@ The project required conducting a complete Extract, Transform, and Load (ETL) cy
 
 ### Outcomes 
 
-After performing the ETL process, the results were tested by examining the merged datasets; these results are displayed in the Dataframe printouts of the ETL Python scripts and the attached SQL screen captures.
+After performing the ETL process, the results were tested by examining the merged datasets; these results are displayed in the Dataframe printouts in the ETL_clean_wiki_movies.ipynb and ETL_clean_kaggle_data.ipynb files and the attached SQL screen captures (Movies query.png and Ratings query.png).
